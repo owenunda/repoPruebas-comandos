@@ -10,3 +10,4 @@ console.log(c);
 const pruba = 12312;
 const div = ""
 
+let z = 0
